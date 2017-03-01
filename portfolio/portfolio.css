@@ -30,7 +30,7 @@ body {
 	color: #C0C0C0;
 	border: 3px #99ceff solid;
 	width: 280px;
-	height: 400px;
+	height: 300px;
 	margin-left: 300px;
 	margin-top: 50px;
 	font-size: 25px;
@@ -45,7 +45,7 @@ body {
 	z-index: -1;
 	position: absolute;
 	float: right;
-	height: 350px;
+	height: 250px;
 	margin-top: 90px;
 	margin-left: -275px;
 	clear: both;
@@ -54,8 +54,8 @@ body {
 	z-index: -1;
 	position: absolute;
 	float: right;
-	height: 350px;
-	margin-top: 560px;
+	height: 250px;
+	margin-top: 460px;
 	margin-left: -275px;
 	margin-bottom: 100px;
 	clear: both;
@@ -64,8 +64,8 @@ body {
 	z-index: -1;
 	position: absolute;
 	float: right;
-	height: 350px;
-	margin-top: 1030px;
+	height: 250px;
+	margin-top: 830px;
 	margin-left: -225px;
 	margin-bottom: 100px;
 	clear: both;
@@ -74,9 +74,19 @@ body {
 	z-index: -1;
 	position: absolute;
 	float: right;
-	height: 350px;
-	margin-top: 1500px;
+	height: 250px;
+	margin-top: 1200px;
 	margin-left: -300px;
+	margin-bottom: 100px;
+	clear: both;
+}
+#image5 {
+	z-index: -1;
+	position: absolute;
+	float: right;
+	height: 250px;
+	margin-top: 1600px;
+	margin-left: -250px;
 	margin-bottom: 100px;
 	clear: both;
 }
